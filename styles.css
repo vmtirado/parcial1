@@ -1,5 +1,13 @@
-@import url('https://fonts.google.com/specimen/Satisfy?query=Satisfy')
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 
-.font{
-    font-family: specimen;
+.mainNav{
+    font-family: 'Satisfy', cursive;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.cancel{
+    background-color: lightcoral;
+}
+.confirm{
+    background-color: blanchedalmond;
 }
